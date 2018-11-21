@@ -116,6 +116,7 @@
             android:focusable="true"
             android:onClick="checkClicked"
             android:text="Hat"
+            android:textStyle="bold"
             app:layout_column="0"
             app:layout_row="0"
             tools:text="Hat" />
@@ -126,6 +127,7 @@
             android:layout_height="49dp"
             android:onClick="checkClicked"
             android:text="Eyebrows"
+            android:textStyle="bold"
             app:layout_column="0"
             app:layout_row="1"
             tools:text="Eyebrows" />
@@ -136,6 +138,7 @@
             android:layout_height="49dp"
             android:onClick="checkClicked"
             android:text="Nose"
+            android:textStyle="bold"
             app:layout_column="0"
             app:layout_row="2"
             tools:text="Nose" />
@@ -146,6 +149,7 @@
             android:layout_height="47dp"
             android:onClick="checkClicked"
             android:text="Arms"
+            android:textStyle="bold"
             app:layout_column="0"
             app:layout_row="3"
             tools:text="Arms" />
@@ -156,6 +160,7 @@
             android:layout_height="43dp"
             android:onClick="checkClicked"
             android:text="Mustache"
+            android:textStyle="bold"
             app:layout_column="0"
             app:layout_row="4" />
 
@@ -165,6 +170,7 @@
             android:layout_height="wrap_content"
             android:onClick="checkClicked"
             android:text="Eyes"
+            android:textStyle="bold"
             app:layout_column="1"
             app:layout_row="0"
             tools:text="Eyes" />
@@ -175,6 +181,7 @@
             android:layout_height="wrap_content"
             android:onClick="checkClicked"
             android:text="Glasses"
+            android:textStyle="bold"
             app:layout_column="1"
             app:layout_row="1"
             tools:text="Glasses" />
@@ -185,6 +192,7 @@
             android:layout_height="wrap_content"
             android:onClick="checkClicked"
             android:text="Mouth"
+            android:textStyle="bold"
             app:layout_column="1"
             app:layout_row="2"
             tools:text="Mouth" />
@@ -195,6 +203,7 @@
             android:layout_height="wrap_content"
             android:onClick="checkClicked"
             android:text="Ears"
+            android:textStyle="bold"
             app:layout_column="1"
             app:layout_row="3"
             tools:text="Ears" />
@@ -205,6 +214,7 @@
             android:layout_height="wrap_content"
             android:onClick="checkClicked"
             android:text="Shoes"
+            android:textStyle="bold"
             app:layout_column="1"
             app:layout_row="4"
             tools:text="Shoes" />
